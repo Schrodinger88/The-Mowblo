@@ -4,7 +4,7 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import Home from './home';
 import Client from './client';
-import Setting from '../(tabs)/setting';
+import Setting from './setting';
 import Stats from './stats';
 import Wallet from './wallet';
 import Weather from './weather';
